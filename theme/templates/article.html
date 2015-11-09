@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="content post">
+    <h2 class="post-title">{{ article.title }}</h2>
+    <div class="post-date">
+        <time>{{ article.date|strftime('%d %B %Y') }}</time>
+    </div>
+
+    {{ article.content }}
+</div>
+{% endblock %}

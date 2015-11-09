@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+THEME = './theme'
+
 AUTHOR = u'Omar Abou Mrad'
 SITENAME = u'aboumrad.info'
 SITEURL = ''

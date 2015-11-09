@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>{% block windowtitle %}{{ SITENAME }}{% endblock %}</title>
+        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+        <link rel="stylesheet" href="/theme/css/style.css">
+    </head>
+    <body>
+        <div class="container">
+            <header class="masthead">
+                <h1 class="masthead-title">
+                    <a href="/">{{ AUTHOR }}</a>
+                </h1>
+                <nav class="masthead-nav">
+                    <a href="/">blog</a>
+                    <a href="/about">about</a>
+                    <a href="/cv">cv</a>
+                </nav>
+            </header>
+                {% block content %}
+                {% endblock %}
+            </div>
+        </div>
+    </body>
+</html>
