@@ -20,6 +20,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+FEED_RSS = 'feeds/all.rss.xml'
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),

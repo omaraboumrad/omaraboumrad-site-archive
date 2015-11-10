@@ -1,10 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{% block windowtitle %}{{ SITENAME }}{% endblock %}</title>
+        {% block extra_meta %} {% endblock %}
+        <meta property="og:image" content="{{ SITEURL }}/theme/images/logo.png"/>
+        <meta property="og:title" content="{{ SITENAME }}"/>
+        <meta property="og:url" content="{{ SITEURL }}"/>
+        <meta property="og:site_name" content="{{ SITENAME }}"/>
+        <meta property="og:type" content="blog"/>
+        <meta property="og:description" content="Omar Abou Mrad's personal blog"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
         <link rel="stylesheet" href="/theme/css/style.css">
+        <link href="{{ SITEURL }}/{{ FEED }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed" />
+        {% if FEED_RSS %}
+        <link href="{{ SITEURL }}/{{ FEED_RSS }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+        {% endif %}
     </head>
     <body>
         <div class="container">
@@ -13,9 +24,10 @@
                     <a href="/">{{ AUTHOR }}</a>
                 </h1>
                 <nav class="masthead-nav">
-                    <a href="/">blog</a>
-                    <a href="/about">about</a>
-                    <a href="/cv">cv</a>
+                    <a href="/">ALL</a>
+                    {% for category, _ in categories %}
+                        <a href="{{ SITEURL }}/{{category.url}}">{{ category.name }}</a>
+                    {% endfor %}
                 </nav>
             </header>
                 {% block content %}

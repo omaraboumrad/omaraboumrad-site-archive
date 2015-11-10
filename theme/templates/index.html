@@ -1,16 +1,9 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<div class="content list">
+<div class="content-list">
     {% for article in articles %}
-    <div class="list-item">
-        <h2 class="list-post-title">
-            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-        </h2>
-        <div class="list-post-date">
-            <time>{{ article.date|strftime('%d %B %Y') }}</time>
-        </div>
-    </div>
+            {% include 'article_header.html' %}
     {% endfor %}
 </div>
 {% endblock %}
