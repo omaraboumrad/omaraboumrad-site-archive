@@ -60,4 +60,6 @@ target/
 output/
 srv.pid
 pelican.pid
+pelican-plugins
+sitemap/
 

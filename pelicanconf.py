@@ -6,7 +6,7 @@ THEME = './theme'
 
 AUTHOR = u'Omar Abou Mrad'
 SITENAME = u'aboumrad.info'
-SITEURL = ''
+SITEURL = 'http://aboumrad.info'
 
 PATH = 'content'
 
@@ -35,4 +35,8 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
+
+DISQUS_SITENAME = "aboumradinfo"
+
+PLUGINS=['sitemap',]
