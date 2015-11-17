@@ -5,6 +5,7 @@ Tags: food
 Summary: Who doesn't love pancakes? The best breakfast, lunch and dinner!
 Status: Published
 Schema: Article
+Keywords: pancake, food, maple, syrup, breakfast
 
 There's nothing like waking up early in the morning and preparing the simplest and
 tastiest breakfast ever! I've always been a fan of pancakes, they used to be a

@@ -5,6 +5,7 @@ Tags: JS
 Summary: Ever found yourself playing solitaire while waiting? here's an alternative!
 Status: Published
 Schema: Article
+Keywords: code, meeting, space, shooter, game, solitaire, compile, waiting
 
 We've all done it, I'm sure. Everytime you're waiting on some call, or waiting
 on some meeting, or waiting for your code to [compile](https://xkcd.com/303/)

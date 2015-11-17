@@ -5,6 +5,7 @@ Tags: electronics, arduino
 Summary: Learning electronics after a career of software.
 Status: Published
 Schema: Article
+Keywords: arduino, electronics, circuit, motor, driver, kit
 
 After a semi-long career of software, I found myself intrigued by electronics.
 It's quite facinating to be build something that you can actually _touch_!

@@ -5,6 +5,7 @@ Tags: tips, docker
 Summary: Speeding up install with a dockerized apt cacher
 Status: Published
 Schema: Article
+Keywords: docker, apt, cacher, caching, proxy, container
 
 Everyone hates downloading the same package multiple times. It gets even worse when you're doing it constantly when building docker images.
 

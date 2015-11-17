@@ -5,6 +5,7 @@ Tags: tips
 Summary: Making Asciinema work with commands that incrementally report progress
 Status: Published
 Schema: Article
+Keywords: asciinema, max, wait, terminal, progress
 
 Asciinema 1.0 added an amazing new switch to the command line interface that allows you to set a terminal's maximum inactivity time.
 

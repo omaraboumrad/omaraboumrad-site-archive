@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 
 {% block extra_meta %}
-<meta name="keywords" content="{% for tag in article.tags %}{{tag}}{% if not loop.last%},{%endif%}{%endfor%}"/>
+<meta name="keywords" content="{{ article.keywords }}"/>
 <meta name="date" content="{{ article.date }}" />
 <meta name="author" content="{{ article.author }}" />
 <meta name="summary" content="Short version for index and feeds" />
@@ -14,5 +14,6 @@
     {{ article.content }}
 </div>
 
+<div class="addthis_sharing_toolbox"></div>
 {% include 'disqus.html' %}
 {% endblock %}

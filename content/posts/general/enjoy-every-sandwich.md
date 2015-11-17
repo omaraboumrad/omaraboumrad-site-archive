@@ -5,6 +5,7 @@ Tags: food
 Summary: Enjoy every sandwich, make every sandwich!
 Status: Published
 Schema: Article
+Keywords: sandwich, prosciutto, salami, bread, toast, ingredients, delicious
 
 Making sandwiches is as much an art as painting a master piece! (Yeah, I'm so
 poetic). It doesn't matter what you're trying to make, odds are you'll never hit
