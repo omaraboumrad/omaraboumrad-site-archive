@@ -40,7 +40,17 @@ RELATIVE_URLS = True
 DISQUS_SITENAME = "aboumradinfo"
 
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS=['sitemap']
+PLUGINS=['sitemap', 'extract_toc']
+
+MARKDOWN = {
+  'extension_configs': {
+    'markdown.extensions.toc': {},
+    'markdown.extensions.codehilite': {'css_class': 'highlight'},
+    'markdown.extensions.extra': {},
+    'markdown.extensions.meta': {},
+  },
+  'output_format': 'html5',
+}
 
 SITEMAP = {
     'format': 'xml',

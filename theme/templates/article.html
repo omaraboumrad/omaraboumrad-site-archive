@@ -11,6 +11,13 @@
 <div class="content post">
     {% include 'article_header.html' %}
 
+
+    {% if article.toc %}
+        <nav class="toc">
+            {{ article.toc }}
+        </nav>
+    {% endif %}
+
     {{ article.content }}
 </div>
 
