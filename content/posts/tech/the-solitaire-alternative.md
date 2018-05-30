@@ -17,7 +17,7 @@ touch events.
 Go Nuts!
 
 <a class="jsbin-embed"
-   href="http://jsbin.com/tapewa/embed?output">
+   href="http://jsbin.com/tapewa/embed?output&height=750px&width=450px">
    JS Bin on jsbin.com</a>
 <script src="http://static.jsbin.com/js/embed.min.js?3.35.3"></script>
 

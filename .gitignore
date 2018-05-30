@@ -63,3 +63,5 @@ pelican.pid
 pelican-plugins
 sitemap/
 
+
+.python-version

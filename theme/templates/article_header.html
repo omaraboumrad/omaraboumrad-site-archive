@@ -1,10 +1,10 @@
     <div class="list-item">
-        <h2 class="list-post-title">
+        <h3 class="list-post-title">
             <a href="/{{ article.url }}">{{ article.title }}</a>
-        </h2>
+        </h3>
         <div class="list-post-date">
-            <strong>on</strong> <time>{{ article.date|strftime('%d-%m-%Y') }}</time>
-            <strong>in</strong> <a href="{{SITE_URL}}/category/{{article.category}}.html">{{article.category}}</a> <strong>with</strong>
+            on <time>{{ article.date|strftime('%d-%m-%Y') }}</time>
+            in <a href="{{SITE_URL}}/category/{{article.category}}.html">{{article.category}}</a> with
             {% for tag in article.tags %}<a href="{{SITE_URL}}/tag/{{tag}}.html">{{tag}}</a>{% if not loop.last%}, {%endif%}{%endfor%}
         </div>
     </div>

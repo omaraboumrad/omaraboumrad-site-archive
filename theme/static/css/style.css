@@ -5,7 +5,7 @@ html{font-family:"Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-ser
 body{color:#515151;background-color:#fff;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
 a{color:#268bd2;text-decoration:none}
 a:hover,a:focus{text-decoration:underline}
-h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:.5rem;font-weight:600;line-height:1.1;color:#333;letter-spacing:-.025rem}
+h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:.5rem;font-weight:600;line-height:1.1;color:#555;letter-spacing:-.025rem}
 h1{font-size:2rem}
 h2{font-size:1.6rem}
 h3{font-size:1.3rem}
@@ -22,7 +22,7 @@ ol li{margin-bottom:.25rem}
 ol ul,ol ol{margin-top:.25rem;margin-bottom:.5rem}
 p+h1,p+h2,p+h3,ul+h1,ul+h2,ul+h3,ol+h1,ol+h2,ol+h3{margin-top:1.5rem}
 hr{border:0;border-top:.5px solid #eee;border-bottom:.5px solid #eee;margin:1.5rem auto}
-strong{color:#333;font-weight:600}
+strong{color:#555;font-weight:600}
 abbr{font-size:85%;font-weight:bold;color:#555;text-transform:uppercase}
 abbr[title]{cursor:help;border-bottom:1px dotted #e5e5e5}
 blockquote{padding:0 0 0 1.5rem;margin:0 2rem 1rem 0;color:#999;border-left:.5rem solid #e5e5e5}
@@ -46,24 +46,24 @@ tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th{background-color:#f9f9f9}
 .container{max-width:35rem;padding:2rem 1.5rem;margin-left:auto;margin-right:auto}
 @media (min-width: 38rem){.container{padding:5rem 1rem} }
 .masthead-title{font-weight:300}
-.masthead-title a{color:#333}
+.masthead-title a{color:#555}
 .masthead-title a:hover,.masthead-title a:focus{text-decoration:none}
 .masthead-title span{color:#ddd}
 .masthead-title--small{margin-bottom:.75rem;font-size:.75rem;font-weight:600;text-transform:uppercase}
-.masthead-title--small a{color:#333}
+.masthead-title--small a{color:#555}
 .masthead-title--small a:hover,.masthead-title--small a:focus{text-decoration:none}
 .masthead .masthead-nav{margin-bottom:2rem}
 .masthead .masthead-nav a{color:#aaa;font-weight:300;text-transform:lowercase;-webkit-transition:all .2s ease;-moz-transition:all .2s ease;transition:all .2s ease}
-.masthead .masthead-nav a:hover,.masthead .masthead-nav a:focus{color:#333;text-decoration:none}
+.masthead .masthead-nav a:hover,.masthead .masthead-nav a:focus{color:#555;text-decoration:none}
 .masthead .masthead-nav a+a{margin-left:.25rem}
 .page-title{margin-bottom:2rem}
 .post-title{margin-bottom:.25rem}
 .post-date{margin-bottom:2rem;font-size:.75rem;text-transform:uppercase}
 .list-post-title{margin-bottom:.25rem}
-.list-post-title a{color:#333}
+.list-post-title a{color:#555}
 .list-post-title a:hover,.list-post-title a:focus{text-decoration:none}
-.list-post-date{margin-bottom:1rem;font-size:.75rem;text-transform:uppercase}
-.projects-list a{color:#333}
+.list-post-date{margin-bottom:1rem;font-size:.75rem;}
+.projects-list a{color:#555}
 .highlight .hll{background-color:#ffc}
 .highlight .c{color:#999988;font-style:italic}
 .highlight .err{color:#a61717;background-color:#e3d2d2}
@@ -125,5 +125,5 @@ tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th{background-color:#f9f9f9}
 .highlight .vg{color:teal}
 .highlight .vi{color:teal}
 .highlight .il{color:#099}
-.content-list div + div { margin-top: 50px; }
+.content-list div + div { margin-top: 20px; }
 #copy {margin-top:50px;text-align:center;font-size:14px}
