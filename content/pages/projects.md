@@ -11,7 +11,7 @@ I've been doing:
 
 <img src="/images/mastool.png" />
 
-**[dryorm](https://github.com/omaraboumrad/dryorm) - object relational mapper playground (open source) [Python, Django, Channels, Queue, Docker]**
+**[dryorm](https://dryorm.com/ee2136c0-4584-4cee-a15e-00e73eee0b19) - object relational mapper playground (open source) [Python, Django, Channels, Queue, Docker]**
 
 <img src="/images/dryorm.png" />
 
