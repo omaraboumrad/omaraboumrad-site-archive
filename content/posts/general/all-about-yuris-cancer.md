@@ -192,6 +192,8 @@ The initial operation we had done was quite clean, however, throughout the weeks
 
 We simply did not know what was causing this, despite our constant visits to the Surgeon's clinic.
 
+More info about this comes later in [We also have to care for the wrist wound](#We-also-have-to-care-for-the-wrist-wound) section.
+
 # The translocation results came in
 
 On a Wednesday mid-day, we received the translocation test result from France which confirms the translocation of chromosomes 11 and 22 finally confirming that Yuri has [Ewing's Sarcoma](https://www.webmd.com/cancer/ewings-sarcoma).
@@ -218,16 +220,30 @@ On a Wednesday mid-day, we received the translocation test result from France wh
 We met with the Oncologist on the same day and he briefed us of the next steps. It was very overwhelming and difficult to accept the [protocol](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/protocol). Yuri has to undergo a heavy chemotherapy [treatment plan](http://www.euroewing.eu/clinical-trials/ee2012-trial/patients-ee2012/vdc-ie) as follows:
 
 - One cycle every other week.
-- Depending on the medication taken:
-    - It would be 3 days hospitalization for VDC. ([Vincristine](http://chemocare.com/chemotherapy/drug-info/Vincristine.aspx), [Doxorubicine](http://chemocare.com/chemotherapy/drug-info/Doxorubicin.aspx), [Cyclophosphamide](http://chemocare.com/chemotherapy/drug-info/Cyclophosphamide.aspx))
-    - Or 5 days hospitalization for IE. ([Ifosfamide](http://chemocare.com/chemotherapy/drug-info/Ifosfamide.aspx), [Etoposide](http://chemocare.com/chemotherapy/drug-info/Etoposide.aspx)
+- Depending on the medication taken, it would be 3 days hospitalization for [Vincristine](http://chemocare.com/chemotherapy/drug-info/Vincristine.aspx), [Doxorubicine](http://chemocare.com/chemotherapy/drug-info/Doxorubicin.aspx), [Cyclophosphamide](http://chemocare.com/chemotherapy/drug-info/Cyclophosphamide.aspx) (known as **VDC**)
+- Or 5 days hospitalization for [Ifosfamide](http://chemocare.com/chemotherapy/drug-info/Ifosfamide.aspx), [Etoposide](http://chemocare.com/chemotherapy/drug-info/Etoposide.aspx) (known as **IE**)
 
 Yuri would also need to have a [portacath](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/port-a-cath) installed in his chest that facilitates the chemotherapy.
 
+Cycle | Week | Due | Treatment
+- | - | - | -
+1 | 1 | 04/11/2019 | VDC
+2 | 3 | 18/11/2019 | IE
+3 | 5 | 02/12/2019 | VDC
+4 | 7 | 16/12/2019 | IE
+5 | 9 | 30/12/2019 | VDC
+6 | 11 | 13/01/2020 | IE
+&nbsp; | 13 | 27/01/2020 | Surgery / Radiation
+7 | 15 | TBD | VDC
+8 | 17 | TBD | IE
+9 | 19 | TBD | VC
+10 | 21 | TBD | IE
+11 | 23 | TBD | VC
+12 | 25 | TBD | IE
+13 | 27 | TBD | VDC
+14 | 29 | TBD | IE
 
-Protocol Page 1 | Protocol Page 2
-- | - 
-<a href="/images/yuri/protocol1.jpg">![Protocol 1](/images/yuri/protocol1.jpg)</a> | <a href="/images/yuri/protocol2.jpg">![Protocol 2](/images/yuri/protocol2.jpg)</a>
+**Protocol** - [Page 1](/images/yuri/protocol1.jpg) | [Page 2](/images/yuri/protocol2.jpg)
 
 Fast forward a month, we have undergone three cycles already.
 
@@ -245,13 +261,39 @@ The poor thing literally had one, single, night's rest.
 
 The second cycle was for five days but it was far more tolerable. Yuri was not complaining from any pain beyond the mere nausea and he was eating properly throughout the treatment that week. We went home on a Saturday for a week's rest and we were very much in control of the side effects. Yuri still had the occasional vomit, but we noticed that it was mostly due to the medicine he has to take to control ulcer and constipation. 
 
-We finally had a good relaxing week.
+We finally had a good relaxing week. It's worthwhile noting that during this cycle, Yuri had lost almost 95% of his hair, he lost the remaining 5% the following resting week.
 
 ## Cycle 3 - VDC
 
-The third cycle was the dreaded one. Considering we knew what to expect, we were scared shitless of the Vincristine cycle again. Luckily Yuri was fantastic throughout the period and was eating properly. The biggest problem we faced was vomit which was caused by the smell and taste of the laxative he had to take while nauseated. The doctor boosted the frequency of Zofran and decided to swap out the laxative he was taking from [Forlax](https://www.drugs.com/uk/forlax-10g-leaflet.html) to [Transilax](https://www.drugs.com/international/transilax.html).
+The third cycle was the dreaded one. Considering we knew what to expect, we were scared shitless of the Vincristine cycle again. Yuri was fantastic throughout the period and was eating properly. The biggest problem we faced was vomit which was caused by the smell and taste of the laxative he had to take while nauseated. The doctor boosted the frequency of Zofran and decided to swap out the laxative he was taking from [Forlax](https://www.drugs.com/uk/forlax-10g-leaflet.html) to [Transilax](https://www.drugs.com/international/transilax.html).
 
-We got rid of both causes of vomit! We got home on Wednesday dreading the side effects of vincristine but none were glaring and Yuri is having calm days and sleepy nights.
+We got rid of both causes of vomit! We got home on Wednesday dreading the side effects of vincristine but none were glaring and Yuri was having calm days and sleepy nights for the first 4 days. On the fifth day [monday] Yuri no longer slept properly and started randomly moving around while sleeping and waking up. By the 7th day he had major pain in his mouth and had not pooped for 3 days. Given his platelets were around 120, we gave him enema and cleared his constipation, however he was still complaining about pain in his mouth and had not eaten for a day. Apparently we did not escape the horrors of VDC. Yuri has a lot of mouth sores despite all the medication he's taking. The doctor swapped out Medistan to [Fluconazole](https://www.drugs.com/mtm/fluconazole.html) but it was to no avail. Yuri's pain kept intensifying to a point where we took him to the E/R one day before his 4th cycle where he was given Flucanozle intervenously as well as pain medication.
+
+Or so they say, Paracetamol does nothing for such intense pain.
+
+The pain we were previously attributing to Vincristine, may have been misplaced. Mouth sores seem to be a common side effect of Doxorubicin [as mentioned here](https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/mouth-sores/art-20045486)
+
+```
+Whether you experience mouth sores while undergoing chemotherapy depends on the type and dose of medication you receive, as well as how often you receive your treatment. The chemotherapy drugs most likely to cause mouth sores include:
+
+Capecitabine (Xeloda)
+Cisplatin
+Cytarabine (Depocyt)
+=> Doxorubicin (Doxil) <=
+=> Etoposide (Etopophos) <=
+Fluorouracil
+Methotrexate (Trexall)
+
+Mouth sores caused by chemotherapy treatment usually develop a few days after treatment begins and go away within two or three weeks after stopping chemotherapy. The mouth sores usually reach their peak around the seventh day after chemotherapy treatment ends.
+```
+
+While Etoposide is in the list, We witnessed no mouth sores during the Ifosfamide and Etoposide cycle (so far). Perhaps the cleansing process in the IE cycle plays a role?
+
+## We also have to care for the wrist wound
+
+The wound story did not end, but it's not suitable to discuss the whole progress in the earlier section given the time it's taking to heal. When Yuri was sent in to install the Portacath, we asked the surgeon to fix his wrist wound. The surgeon explained to us that had Yuri not been going under for a Portacath, he would not accept to stitch the wound granted chemotherapy will interfere with the wound healing. He gave us a headsup that it's quite possible for the wound to open up again during the first two months of chemotherapy. He also gave us specific instruction on how to care for the woundby disinfecting it once every 3 days and applying a cream called [MediHoney](https://www.integralife.com/medihoney-wound-burn-dressing-ous/product/wound-reconstruction-care-outpatient-clinic-private-office-prepare-medihoney-wound-burn-dressing-ous), a rather expensive cream that truly did wonders. The wound spat out 2 stitches so far and this is the progress 1.5 months after the operation:
+
+![Wound MediHoney](images/yuri/wound-medihoney.jpeg)
 
 # How we're managing everything
 
@@ -327,9 +369,18 @@ Every Sunday before a hospital week, we visit the closest printshop and print ou
 
 Being systematic helps a lot with the process especially when it comes to tracking things. There are numerous papers that we have to keep with us, numerous approvals and signatures that we need to get, and the oh so many prescriptions, force us to be quite methodical. We're maintaining a physical document file where we stored everything we need. We take notes all the time and keep track of the admission, release, immunity shots, blood tests and so on.
 
-![Tracking Calendar](/images/yuri/calendar.jpg)
+![Tracking Calendar](/images/yuri/calendar.png)
 
-The calendar was originally taken from a template but we modified it to fit our need. Green cells are treatment days, Yellow cells are immunity shot days, Red cells are blood test days. The calendar has 15 months in total which are hopefully enough to cover the entire treatment schedule.
+C = Chemo,  
+B = Blood Test,  
+N = Immunity Shots,  
+T = Blood Transfusion
+
+The calendar has 15 months in total which are hopefully enough to cover the entire treatment schedule.
+
+<iframe width="100%" height="490px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOk8PNmnvpWsmk3pBWgEzS5Cjy7c36FuVfo8PbU_cWz_lbK_pfp1z3jdNAgrOQYRv7bXJovH2YTVlH/pubhtml?gid=21175168&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[You can also download the calendar here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSOk8PNmnvpWsmk3pBWgEzS5Cjy7c36FuVfo8PbU_cWz_lbK_pfp1z3jdNAgrOQYRv7bXJovH2YTVlH/pub?gid=21175168&single=true&output=pdf)
 
 # What exactly happens in the hospital
 
@@ -338,15 +389,16 @@ The hospital stay is very calm and goes smoothly, there's really nothing to it b
 - Head to admissions office and sign a few papers for admission
 - Head to the room on the 9th floor and wait
 - First round of tests involve blood pressure, temperature and urine test
-- Nurses install the portocath and take blood for testing
-- While waiting for the blood test, the serum is hydrating the body
+- Nurses install the [huber needles (aka butterfly)](https://www.verywellhealth.com/get-to-know-your-huber-needle-for-chemo-port-access-430073) in the portacath (having the street name "Chamber") and take blood for testing
+- While waiting for the blood test, the sodium chloride is hydrating the body
+- Depending on the week, there may be additional Echo+EKG and Chest Xrays.
 - Once the blood test results are out start the Nausea medicine (Zofran)
 - Not long after start with the chemo drugs, depending on the protocol, some chemo drugs finish rather quickly, others take long (For example: Doxorubicine first dose is 20 hours, the second dose is 24 hours, whereas the I/E ones are about 1 hour each per day)
 - Throughout the day, temperature and blood pressure are taken. Urine tests are taken almost daily in the morning
 - Meals are at 07:30, 12:30PM and 05:00PM.
-- It' worthwhile noting that while Yuri is nauseated, his entire appetite goes away.
+- It's worthwhile noting that while Yuri is nauseated, his entire appetite goes away.
 - Yuri goes to the bathroom to urinate roughly every 30 minutes, considering the amount of liquid being pumped into his body.
-- Doctors pass by at certain intervals to checkup on him.
+- Resident Doctors pass by at certain intervals to checkup on him. The questions tend to be repetitive because of the trainees that usually follow the doctors.
 - There are some individuals none-affiliated with the hospital that pass by and offer their assistance either to help the child [with studies](/images/yuri/studies.jpeg) or entertain them [with some art activities](/images/yuri/art.jpeg).
 - On the release day, a blood test is taken in order to ensure a proper platelet count.
 - By that time we're already packed and ready to leave
@@ -362,7 +414,8 @@ Bill Page 1 | Bill Page 2 | Bill Page 3
 - | - | -
 <a href="/images/yuri/bill1.jpeg">![Bill Page 1](/images/yuri/bill1.jpeg)</a> | <a href="/images/yuri/bill2.jpeg">![Bill Page 2](/images/yuri/bill2.jpeg)</a> | <a href="/images/yuri/bill3.jpeg">![Bill Page 3](/images/yuri/bill3.jpeg)</a>
 
-- The nurses remove the portacath
+- The nurses remove the tubing from the portacath
+- Yuri roams free in the Oncology section hallway eagerly awaiting his departure.
 
 # What happens at home
 
