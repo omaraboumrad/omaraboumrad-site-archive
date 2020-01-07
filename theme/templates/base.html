@@ -2,13 +2,14 @@
 <html lang="en">
     <head>
         <title>{% block windowtitle %}{{ SITENAME }}{% endblock %}</title>
-        {% block extra_meta %} {% endblock %}
+        {% block meta %}
         <meta property="og:image" content="{{ SITEURL }}/theme/images/logo.png"/>
         <meta property="og:title" content="{{ SITENAME }}"/>
         <meta property="og:url" content="{{ SITEURL }}"/>
         <meta property="og:site_name" content="{{ SITENAME }}"/>
         <meta property="og:type" content="blog"/>
         <meta property="og:description" content="Omar Abou Mrad's personal blog"/>
+        {% endblock %}
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
         <link rel="stylesheet" href="/theme/css/style.css">

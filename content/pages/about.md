@@ -13,6 +13,7 @@ Passion for food.
 [omaraboumrad @ GitHub](http://github.com/omaraboumrad)  
 [omaraboumrad @ asciinema](http://asciinema.com/~omaraboumrad)  
 [omaraboumrad @ Twitter](http://twitter.com/omaraboumrad)  
+[omar @ Menadevs](https://menadevs.com)  
 [xterm @ LebGeeks](http://www.lebgeeks.com)  
 [xterm @ Freenode](https://webchat.freenode.net/)  
 

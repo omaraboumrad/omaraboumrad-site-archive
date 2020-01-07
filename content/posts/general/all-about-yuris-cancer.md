@@ -6,6 +6,7 @@ Summary: The history, the tests and the process surrounding my son's cancer
 Status: Published
 Schema: Article
 Keywords: pediatrics, surgery, oncology, cancer, ewing's sarcoma, pnet
+Image: images/yuri/yuri.jpg
 
 
 # How it started
@@ -245,7 +246,9 @@ Cycle | Week | Due | Treatment
 
 **Protocol** - [Page 1](/images/yuri/protocol1.jpg) | [Page 2](/images/yuri/protocol2.jpg)
 
-Fast forward a month, we have undergone three cycles already.
+Fast forward two months, we have undergone four cycles already. Here's a projection timeline assuming nothing changes:
+
+<iframe style="border:0;" width="100%" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOk8PNmnvpWsmk3pBWgEzS5Cjy7c36FuVfo8PbU_cWz_lbK_pfp1z3jdNAgrOQYRv7bXJovH2YTVlH/pubhtml?gid=1175474858&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Cycle 1 - VDC
 
@@ -267,7 +270,7 @@ We finally had a good relaxing week. It's worthwhile noting that during this cyc
 
 The third cycle was the dreaded one. Considering we knew what to expect, we were scared shitless of the Vincristine cycle again. Yuri was fantastic throughout the period and was eating properly. The biggest problem we faced was vomit which was caused by the smell and taste of the laxative he had to take while nauseated. The doctor boosted the frequency of Zofran and decided to swap out the laxative he was taking from [Forlax](https://www.drugs.com/uk/forlax-10g-leaflet.html) to [Transilax](https://www.drugs.com/international/transilax.html).
 
-We got rid of both causes of vomit! We got home on Wednesday dreading the side effects of vincristine but none were glaring and Yuri was having calm days and sleepy nights for the first 4 days. On the fifth day [monday] Yuri no longer slept properly and started randomly moving around while sleeping and waking up. By the 7th day he had major pain in his mouth and had not pooped for 3 days. Given his platelets were around 120, we gave him enema and cleared his constipation, however he was still complaining about pain in his mouth and had not eaten for a day. Apparently we did not escape the horrors of VDC. Yuri has a lot of mouth sores despite all the medication he's taking. The doctor swapped out Medistan to [Fluconazole](https://www.drugs.com/mtm/fluconazole.html) but it was to no avail. Yuri's pain kept intensifying to a point where we took him to the E/R one day before his 4th cycle where he was given Flucanozle intervenously as well as pain medication.
+We got rid of both causes of vomit! We got home on Wednesday dreading the side effects of vincristine but none were glaring and Yuri was having calm days and sleepy nights for the first 4 days. On the fifth day [monday] Yuri no longer slept properly and started randomly moving around while sleeping and waking up. By the 7th day he had major pain in his mouth and had not pooped for 3 days. Given his platelets were around 120, we gave him enema and cleared his constipation, however he was still complaining about pain in his mouth and had not eaten for a day. Apparently we did not escape the horrors of VDC. Yuri has a lot of mouth sores despite all the medication he's taking. The doctor swapped out Medistan temporarily to [Fluconazole](https://www.drugs.com/mtm/fluconazole.html) but it was to no avail. Yuri's pain kept intensifying to a point where we took him to the E/R one day before his 4th cycle where he was given Fluconazole intervenously as well as pain medication.
 
 Or so they say, Paracetamol does nothing for such intense pain.
 
@@ -374,7 +377,8 @@ Being systematic helps a lot with the process especially when it comes to tracki
 C = Chemo,  
 B = Blood Test,  
 N = Immunity Shots,  
-T = Blood Transfusion
+T = Blood Transfusion,  
+I = Infection Treatment
 
 The calendar has 15 months in total which are hopefully enough to cover the entire treatment schedule.
 
@@ -421,9 +425,31 @@ Bill Page 1 | Bill Page 2 | Bill Page 3
 
 As long as there's no pain involved, there's nothing different than any other day at home beyond taking extra care of what he's touching and what he's eating. Yuri also has to go through a number of medication and shots:
 
-- Immunity shots ([Neupogen](http://chemocare.com/chemotherapy/drug-info/Neupogen.aspx)) for three days after which we run a blood test to check the platelets and the white blood cells count.
-- Oral Medistan pills two times daily to treat aphthous ulcer. (This used to be the liquid version but it was causing vomit)
-- Bactrim antibiotic every Monday, Wednesday and Friday.
-- Transilax, twice daily to avoid constipation.
+- Immunity shots Neupogen ([Filgrastim](http://chemocare.com/chemotherapy/drug-info/filgrastim.aspx)) for three days after which we run a blood test.
+- Medistan ([Nystatin](https://www.webmd.com/drugs/2/drug-8893-8206/nystatin-oral/nystatin-suspension-oral/details)) twice daily. (which used to also be a liquid version, three times daily)
+- Bactrim or S-Trimoxazole ([Co-Trimoxazole](https://medlineplus.gov/druginfo/meds/a684026.html)) antibiotic every Monday, Wednesday and Friday.
+- [Transilax](https://www.pharmaholic.com/vitamins-supplements/transilax-30-sachets-detail.html), twice daily to avoid constipation. (This used to be Forlax)
+- Pharyndol to treat the throat pain.
+- [Methylene Blue](https://en.wikipedia.org/wiki/Methylene_blue) to protect the mouth from Ulcer pain.
+- Compound mouthwash with diphenhydramine, lidocaine, nystatin.
 
 We've yet to get a week where Yuri's immunity is high enough for him to go to school and play with his friends. Hopefully, this changes soon.
+
+# Blood tests consolidation
+
+This section aims to consolidate all the blood tests done, both during the hospital stay and as post-cycle checkup.
+
+<iframe style="border:0;" width="100%" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOk8PNmnvpWsmk3pBWgEzS5Cjy7c36FuVfo8PbU_cWz_lbK_pfp1z3jdNAgrOQYRv7bXJovH2YTVlH/pubhtml?gid=296368201&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[You can also download the blood tests here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSOk8PNmnvpWsmk3pBWgEzS5Cjy7c36FuVfo8PbU_cWz_lbK_pfp1z3jdNAgrOQYRv7bXJovH2YTVlH/pub?gid=296368201&single=true&output=pdf)
+
+In this sheet you'll find the following columns:
+
+- **Date**: The date when the event happened  
+- **Event**: The type of event that happened  
+- **Fil**: Whether Yuri has taken a Filgrastim shot (Neupogen)  
+- **HGB**: The hemoglobin test result on that day. No chemotherapy would be done for low (sub-7.0) hemoglobin.  
+- **PLT**: The platelet results on that day  
+- **WBC**: The white blood count result on that day  
+- **Neutro**: The Neutrophils result on that day  
+- **Immunity**: *WBC x Neutro x 10* gives a value for the immunity. A value of less than 1500 is considered low immunity. Anything less than 500 should be isolated.
