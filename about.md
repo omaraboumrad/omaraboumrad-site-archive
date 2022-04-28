@@ -1,4 +1,6 @@
-Title: About
+layout: page
+title: "About"
+permalink: /about/
 
 ### in a nutshell
 
